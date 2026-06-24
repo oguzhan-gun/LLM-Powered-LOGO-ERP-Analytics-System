@@ -12,7 +12,10 @@ An AI-powered assistant designed to enable natural language interaction with LOG
 
 > İşlem sayısı en yüksek ancak toplam ciroda ilk 3'e giremeyen müşteri kimdir?
 
-![SQL Demo](assets/sql.gif)
+<p align="center">
+  <img src="assets/sql.gif" width="700">
+</p>
+
 
 ---
 
@@ -22,7 +25,9 @@ An AI-powered assistant designed to enable natural language interaction with LOG
 
 > En yüksek ciroyu oluşturan ürünleri karşılaştır ve görselleştir.
 
-![Analytics Demo](assets/chart_sql.gif)
+<p align="center">
+  <img src="assets/chart_sql.gif" width="700">
+</p>
 
 ---
 
