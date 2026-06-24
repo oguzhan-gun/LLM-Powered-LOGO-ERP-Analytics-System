@@ -1,6 +1,6 @@
-# LLM-Powered ERP Querying and Analytics System
+# LLM-Powered LOGO ERP Querying and Analytics System
 
-An AI-powered assistant developed to provide natural language access to ERP data, analytics, and reporting processes.
+An AI-powered assistant designed to enable natural language interaction with LOGO ERP systems, providing access to business data, analytics, and reporting workflows.
 
 ---
 
@@ -28,9 +28,9 @@ An AI-powered assistant developed to provide natural language access to ERP data
 
 ## Overview
 
-This project is an AI-powered query and analytics platform that enables users to interact with ERP systems using natural language.
+This project is an AI-powered query and analytics platform that enables users to interact with LOGO ERP systems using natural language.
 
-By processing user queries, the system can perform analyses on ERP data, generate reports, and visualize results. It aims to simplify data access and decision-support processes without requiring technical expertise.
+By processing user queries, the system can perform analyses on LOGO ERP data, generate reports, and visualize results. It aims to simplify data access and decision-support processes without requiring technical expertise.
 
 
 ## Key Features

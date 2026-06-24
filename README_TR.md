@@ -1,6 +1,6 @@
-# LLM Destekli ERP Sorgulama ve Analitik Sistemi
+# LLM Destekli LOGO ERP Sorgulama ve Analitik Sistemi
 
-ERP verilerine, analizlere ve raporlama süreçlerine doğal dil aracılığıyla erişim sağlamak amacıyla geliştirilmiş yapay zekâ destekli bir asistandır.
+LOGO ERP sistemlerindeki verilere, analizlere ve raporlama süreçlerine doğal dil aracılığıyla erişim sağlamak amacıyla geliştirilmiş yapay zekâ destekli bir asistandır.
 
 ---
 
@@ -28,9 +28,9 @@ ERP verilerine, analizlere ve raporlama süreçlerine doğal dil aracılığıyl
 
 ## Genel Bakış
 
-Bu proje, kullanıcıların ERP sistemleriyle doğal dil kullanarak etkileşim kurmasını sağlayan yapay zekâ destekli bir sorgulama ve analitik platformudur.
+Bu proje, kullanıcıların LOGO ERP sistemleriyle doğal dil kullanarak etkileşim kurmasını sağlayan yapay zekâ destekli bir sorgulama ve analitik platformudur.
 
-Kullanıcı sorgularını işleyerek ERP verileri üzerinde analizler gerçekleştirebilir, raporlar oluşturabilir ve sonuçları görselleştirebilir. Sistem, teknik bilgi gerektirmeden veri erişimini ve karar destek süreçlerini kolaylaştırmayı hedeflemektedir.
+Kullanıcı sorgularını işleyerek LOGO ERP verileri üzerinde analizler gerçekleştirebilir, raporlar oluşturabilir ve sonuçları görselleştirebilir. Sistem, teknik bilgi gerektirmeden veri erişimini ve karar destek süreçlerini kolaylaştırmayı hedeflemektedir.
 
 ## Temel Özellikler
 
