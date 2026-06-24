@@ -1,4 +1,8 @@
-# LLM-Powered LOGO ERP Querying and Analytics System
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![LLM](https://img.shields.io/badge/LLM-Gemini%202.5-blue)
+![RAG](https://img.shields.io/badge/RAG-Hybrid-green)
+![SQL Server](https://img.shields.io/badge/Database-SQL%20Server-red)
+# LLM-Powered LOGO ERP Query and Analytics System
 
 An AI-powered assistant designed to enable natural language interaction with LOGO ERP systems, providing access to business data, analytics, and reporting workflows.
 

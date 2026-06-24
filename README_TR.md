@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![LLM](https://img.shields.io/badge/LLM-Gemini%202.5-blue)
+![RAG](https://img.shields.io/badge/RAG-Hybrid-green)
+![SQL Server](https://img.shields.io/badge/Database-SQL%20Server-red)
 # LLM Destekli LOGO ERP Sorgulama ve Analitik Sistemi
 
 LOGO ERP sistemlerindeki verilere, analizlere ve raporlama süreçlerine doğal dil aracılığıyla erişim sağlamak amacıyla geliştirilmiş yapay zekâ destekli bir asistandır.
