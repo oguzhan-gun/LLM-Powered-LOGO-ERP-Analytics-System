@@ -2,32 +2,47 @@
 
 ERP verilerine, analizlere ve raporlama süreçlerine doğal dil aracılığıyla erişim sağlamak amacıyla geliştirilmiş yapay zekâ destekli bir asistandır.
 
+---
+
+## Demo
+
+### Karmaşık Sorgu Üretimi
+
+**Kullanıcı Sorgusu**
+
+> İşlem sayısı en yüksek ancak toplam ciroda ilk 3'e giremeyen müşteri kimdir?
+
+![SQL Demo](assets/sql.gif)
+
+---
+
+### Analitik ve Görselleştirme
+
+**Kullanıcı Sorgusu**
+
+> En yüksek ciroyu oluşturan ürünleri karşılaştır ve görselleştir.
+
+![Analytics Demo](assets/chart_sql.gif)
+
+---
+
 ## Genel Bakış
 
-Bu proje, kullanıcıların ERP sistemleriyle doğal dil kullanarak etkileşim kurmasını sağlayarak manuel veritabanı sorgulama ve karmaşık raporlama süreçlerine olan ihtiyacı azaltmayı amaçlamaktadır.
+Bu proje, kullanıcıların ERP sistemleriyle doğal dil kullanarak etkileşim kurmasını sağlayan yapay zekâ destekli bir sorgulama ve analitik platformudur.
 
-Sistem; Büyük Dil Modelleri (LLM), Retrieval-Augmented Generation (RAG) ve akıllı sorgu yönlendirme mekanizmalarını bir araya getirerek bağlama duyarlı yanıtlar, veri analizleri ve raporlar üretmektedir.
+Kullanıcı sorgularını işleyerek ERP verileri üzerinde analizler gerçekleştirebilir, raporlar oluşturabilir ve sonuçları görselleştirebilir. Sistem, teknik bilgi gerektirmeden veri erişimini ve karar destek süreçlerini kolaylaştırmayı hedeflemektedir.
 
 ## Temel Özellikler
 
 * Doğal Dilden SQL'e Dönüşüm (Natural Language to SQL)
-* Niyet (Intent) Tabanlı Akıllı Sorgu Yönlendirme
+* Niyet ve Alt-Niyet Tabanlı Akıllı Sorgu Yönlendirme
 * Retrieval-Augmented Generation (RAG)
 * Çok Ajanlı (Multi-Agent) LLM Mimarisi
+* Dinamik Şema ve Prompt Üretimi
 * Dinamik Raporlama ve Analitik
 * Otomatik Grafik ve Görselleştirme Üretimi
 * Bağlama Duyarlı ERP Veri Erişimi
 
-## Sistem Mimarisi
-
-Platform, aşağıdaki bileşenlerden oluşan hibrit bir erişim ve akıl yürütme mimarisi kullanmaktadır:
-
-* Niyet Analizi (Intent Analysis)
-* Bağlam Erişimi (Context Retrieval)
-* Sorgu Doğrulama (Query Verification)
-* Sorgu Üretimi (Query Generation)
-* Yanıt Üretimi (Response Generation)
-* Analitik ve Görselleştirme
 
 ## Kullanılan Teknolojiler
 
@@ -36,6 +51,7 @@ Platform, aşağıdaki bileşenlerden oluşan hibrit bir erişim ve akıl yürü
 * Retrieval-Augmented Generation (RAG)
 * BM25
 * Vektör Gömme (Vector Embeddings)
+* Natural Language to SQL (NL2SQL)
 * SQL Server
 * Multi-Agent Sistemler
 * Veri Görselleştirme
@@ -45,7 +61,8 @@ Platform, aşağıdaki bileşenlerden oluşan hibrit bir erişim ve akıl yürü
 * 500'den fazla ERP odaklı sorgu üzerinde değerlendirilmiştir.
 * Test senaryolarında %95'in üzerinde tatmin edici yanıt başarısı elde edilmiştir.
 * Ortalama yanıt süresi 3–5 saniye arasındadır.
+* Karmaşık iş analitiği senaryolarını destekleyerek SQL üretimi, veri analizi ve otomatik görselleştirme yetenekleri sunmaktadır.
 
 ## Not
 
-Bu depo, projenin yalnızca genel bir özetini sunmaktadır. Detaylı uygulama mimarisi, iş kuralları, özel veri setleri ve şirkete özgü bileşenler güvenlik ve gizlilik gerekçeleriyle paylaşılmamaktadır.
+Bu depo, proje hakkında yüksek seviyeli bir genel bakış sunmaktadır. Projenin tam uygulaması, kaynak kodu, iş kuralları ve şirket içi bileşenleri Harezmî bünyesinde geliştirilmiş olup gizlilik ve fikri mülkiyet kısıtları nedeniyle paylaşılmamaktadır.

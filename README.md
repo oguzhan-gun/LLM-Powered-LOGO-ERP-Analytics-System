@@ -2,32 +2,49 @@
 
 An AI-powered assistant developed to provide natural language access to ERP data, analytics, and reporting processes.
 
+---
+
+## Demo
+
+### Complex Query Generation
+
+**User Query**
+
+> İşlem sayısı en yüksek ancak toplam ciroda ilk 3'e giremeyen müşteri kimdir?
+
+![SQL Demo](assets/sql.gif)
+
+---
+
+### Analytics & Visualization
+
+**User Query**
+
+> En yüksek ciroyu oluşturan ürünleri karşılaştır ve görselleştir.
+
+![Analytics Demo](assets/chart_sql.gif)
+
+---
+
 ## Overview
 
-This project aims to reduce the need for manual database querying and complex reporting workflows by enabling users to interact with ERP systems using natural language.
+This project is an AI-powered query and analytics platform that enables users to interact with ERP systems using natural language.
 
-The system combines Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and intelligent query routing mechanisms to generate context-aware responses, data analyses, and reports.
+By processing user queries, the system can perform analyses on ERP data, generate reports, and visualize results. It aims to simplify data access and decision-support processes without requiring technical expertise.
+
 
 ## Key Features
 
 * Natural Language to SQL (NL2SQL)
-* Intent-Based Intelligent Query Routing
+* Intent and Subtype-Based Intelligent Query Routing
 * Retrieval-Augmented Generation (RAG)
+* Hybrid Retrieval (BM25 + Vector Embeddings)
 * Multi-Agent LLM Architecture
+* Dynamic Schema and Prompt Generation
+* SQL Verification and Validation
 * Dynamic Reporting and Analytics
 * Automated Chart and Visualization Generation
 * Context-Aware ERP Data Access
-
-## System Architecture
-
-The platform utilizes a hybrid retrieval and reasoning architecture consisting of the following components:
-
-* Intent Analysis
-* Context Retrieval
-* Query Verification
-* Query Generation
-* Response Generation
-* Analytics and Visualization
 
 ## Technologies Used
 
@@ -36,6 +53,7 @@ The platform utilizes a hybrid retrieval and reasoning architecture consisting o
 * Retrieval-Augmented Generation (RAG)
 * BM25
 * Vector Embeddings
+* Natural Language to SQL (NL2SQL)
 * SQL Server
 * Multi-Agent Systems
 * Data Visualization
@@ -45,7 +63,8 @@ The platform utilizes a hybrid retrieval and reasoning architecture consisting o
 * Evaluated on more than 500 ERP-related queries.
 * Achieved over 95% satisfactory response accuracy across test scenarios.
 * Typical response times range between 3–5 seconds.
+* Supports complex business analytics scenarios through automated SQL generation, data analysis, and visualization capabilities.
 
 ## Disclaimer
 
-This repository provides only a high-level overview of the project. Detailed implementation architecture, business rules, proprietary datasets, and company-specific components are not shared due to security and confidentiality requirements.
+This repository presents a high-level overview of the project. The full implementation, source code, proprietary business logic, datasets, and internal system components were developed within Harezmî and cannot be disclosed due to confidentiality agreements and intellectual property restrictions.
