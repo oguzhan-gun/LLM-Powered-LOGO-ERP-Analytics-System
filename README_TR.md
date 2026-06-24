@@ -1,4 +1,5 @@
 # LLM Destekli LOGO ERP Sorgulama ve Analitik Sistemi
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![LLM](https://img.shields.io/badge/LLM-Gemini%202.5-blue)
 ![RAG](https://img.shields.io/badge/RAG-Hybrid-green)
