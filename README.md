@@ -41,7 +41,6 @@ By processing user queries, the system can perform analyses on ERP data, generat
 * Hybrid Retrieval (BM25 + Vector Embeddings)
 * Multi-Agent LLM Architecture
 * Dynamic Schema and Prompt Generation
-* SQL Verification and Validation
 * Dynamic Reporting and Analytics
 * Automated Chart and Visualization Generation
 * Context-Aware ERP Data Access

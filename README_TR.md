@@ -37,6 +37,7 @@ Kullanıcı sorgularını işleyerek ERP verileri üzerinde analizler gerçekle�
 * Doğal Dilden SQL'e Dönüşüm (Natural Language to SQL)
 * Niyet ve Alt-Niyet Tabanlı Akıllı Sorgu Yönlendirme
 * Retrieval-Augmented Generation (RAG)
+* Hybrid Retrieval (BM25 + Vector Embeddings)
 * Çok Ajanlı (Multi-Agent) LLM Mimarisi
 * Dinamik Şema ve Prompt Üretimi
 * Dinamik Raporlama ve Analitik
@@ -65,4 +66,4 @@ Kullanıcı sorgularını işleyerek ERP verileri üzerinde analizler gerçekle�
 
 ## Not
 
-Bu depo, proje hakkında yüksek seviyeli bir genel bakış sunmaktadır. Projenin tam uygulaması, kaynak kodu, iş kuralları ve şirket içi bileşenleri Harezmî bünyesinde geliştirilmiş olup gizlilik ve fikri mülkiyet kısıtları nedeniyle paylaşılmamaktadır.
+Bu depo, proje hakkında yüksek seviyeli bir genel bakış sunmaktadır. Projenin tam uygulaması, kaynak kodu, iş kuralları, veri modelleri ve kuruma özgü bileşenleri Harezmî bünyesinde geliştirilmiş olup gizlilik yükümlülükleri ve fikri mülkiyet hakları nedeniyle paylaşılmamaktadır.
