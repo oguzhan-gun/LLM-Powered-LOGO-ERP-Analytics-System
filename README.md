@@ -74,6 +74,10 @@ By processing user queries, the system can perform analyses on LOGO ERP data, ge
 * Typical response times range between 3–5 seconds.
 * Supports complex business analytics scenarios through automated SQL generation, data analysis, and visualization capabilities.
 
+## Demo Environment
+
+> **Note:** This repository contains a demo version of the system, which uses SQLite for demonstration purposes. In the production environment, the system uses Microsoft SQL Server with T-SQL for ERP data querying and analytics.
+
 ## Disclaimer
 
 This repository presents a high-level overview of the project. The full implementation, source code, proprietary business logic, datasets, and internal system components were developed within Harezmî and cannot be disclosed due to confidentiality agreements and intellectual property restrictions.
