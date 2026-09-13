@@ -69,9 +69,9 @@ By processing user queries, the system can perform analyses on LOGO ERP data, ge
 
 ## Results
 
-* Evaluated on more than 120+ ERP-related queries.
+* Evaluated on more than 150+ ERP-related queries.
 * Achieved over 95% satisfactory response accuracy across test scenarios.
-* Typical response times range between 3–5 seconds.
+* Typical response times range between 2–4 seconds.
 * Supports complex business analytics scenarios through automated SQL generation, data analysis, and visualization capabilities.
 
 ## Demo Environment
